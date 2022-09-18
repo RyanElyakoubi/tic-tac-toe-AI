@@ -242,7 +242,6 @@ def human_turn(c_choice, h_choice):
         except (KeyError, ValueError):
             print('Bad choice')
 
-
 def main():
     """
     Main function that calls all functions
